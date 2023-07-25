@@ -1,0 +1,84 @@
+Category: Food Question: Which nut is used to make dynamite? Correct: Peanuts
+Category: Food Question: What was the first cold breakfast cereal invented in 1863? Correct: Granola
+Category: Food Question: Who invented Coca Cola? Correct: John Pemberton
+Category: Food Question: How many calories per gram are stored in protein? Correct: 4
+Category: Food Question: What is the only U.S. state to grow coffee beans? Correct: Hawaii
+Category: Food Question: What does the word “onion” mean in Latin? Correct: Large pearl
+Category: Food Question: What is the only edible food that never expires? Correct: Honey
+Category: Food Question: What condiment was sold in the 1830’s as medicine? Correct: Ketchup
+Category: Food Question: What is a tall chef’s hat called? Correct: Toque
+Category: Food Question: How many flowers do honeybees need to visit in order to make one pound of honey? Correct: 2 million
+Category: Food Question: Toblerone is a chocolate brand from which country? Correct: Switzerland
+Category: Food Question: Which monk invented champagne? Correct: Dom Perignon
+Category: Food Question: What spice, frequently used in Hungarian, Indian, and Moroccan food, provides vitamin A and inhibit hair loss? Correct: Paprika
+Category: Food Question: What type of sugar includes a small amount of cornstarch to prevent lumping while mixing? Correct: Powdered Sugar
+
+Category: Sports Question: How many Trophies has Juventus in  Serie A? Correct: 36
+Category: Sports Question: How many Trophies has Milan in Serie A? Correct: 18
+Category: Sports Question: How many Trophies has Lazio in Serie A? Correct: 2
+Category: Sports Question: How many Trophies has Roma in Serie A? Correct: 3
+Category: Sports Question: How many Trophies has Inter in Serie A? Correct: 18
+Category: Sports Question: How many Trophies has Napoli in Serie A? Correct: 2
+Category: Sports Question: How many Golden Balls has Lionel Messi won? Correct: 6
+Category: Sports Question: How many Premier League teams has Adebayor played? Correct: 4
+Category: Sports Question: From which country does Joel Matip come from? Correct: Cameroon
+Category: Sports Question: Which was Jurgen Klopp's first team as a coach? Correct: Mainz
+Category: Sports Question: Which was Jose Mourinho's team at 2012? Correct: Inter
+Category: Sports Question: From which country does Bafetimbi Gomis come from? Correct: France
+Category: Sports Question: Which country won the 1998 World Cup? Correct: France
+Category: Sports Question: Which country won the 2002 World Cup? Correct: Brazil
+Category: Sports Question: Which player scored the fastest hat trick in the Premier League? Correct: Sadio Mane
+Category: Sports Question: With 202 clean sheets, which goalkeeper has the best record in the Premier League? Correct: Petr Cech
+Category: Sports Question: Who scored the fastest goal in Premier League history came in 7.69 seconds? Correct: Shane Long
+Category: Sports Question: Which team won the first Premier League title? Correct: Manchester United
+Category: Sports Question: Where was the 2006 Champions League Final held? Correct: Paris
+Category: Sports Question: What is the highest number of goals that FC Barcelona has scored in a league season? Correct: 116
+Category: Sports Question: Who has scored the most hat tricks in La Liga for Barcelona? Correct: Messi
+Category: Sports Question: How many Barcelona players have won the World Player of the Year award? Correct: 5
+Category: Sports Question: Who is the only player to have been a member of the World Cup winning team three times? Correct: Pele
+Category: Sports Question: Which London club was the first Premiership team to be relegated twice? Correct: Crystal Palace
+Category: Sports Question: Where did legendary goalkeeper David Seaman go after leaving Arsenal? Correct: Manchester City
+Category: Sports Question: Which was the first football club to founded? Correct: Sheffield
+Category: Sports Question: Of which Brazilian Club was Pele a member? Correct: Santos
+Category: Sports Question: In 2017, which player won the Chelsea’ player of the year award? Correct: Hazard
+Category: Sports Question: What year were Arsenal founded? Correct: 1886
+
+Category: Technology Question: The famous computer Deep Blue was created by which company? Correct: IBM
+Category: Technology Question: The computer Deep Blue is known for beating a grandmaster in which game? Correct: Chess
+Category: Technology Question: Released in 1900, the Brownie was a famous early camera from what company? Correct: Kodak
+Category: Technology Question: In which country did the brand LG originate? Correct: South Korea
+Category: Technology Question: What website was originally known as "Gadabra"? Correct: Amazon
+Category: Technology Question: What company specializes in GPS technology? Correct: Bose
+Category: Technology Question: What video on demand service was originally called "Watch Now"? Correct: Netflix
+Category: Technology In which year did Tim Berners Question: Lee invent the World Wide Web? Correct: 1989
+Category: Technology Question: On an email, what does "CC" stand for? Correct: Carbon Copy
+Category: Technology Question: What is the name of the blue bird that is in Twitter's logo? Correct: Larry
+Category: Technology Question: Paypal was spun off from which major company in 2015? Correct: eBay
+Category: Technology Question: The compact disc was originally developed by Philips and which company? Correct: Sony
+Category: Technology Question: What is a type of test to see if a specific network address can be reached? Correct: Ping
+Category: Technology Question: Which food is slang for poorly written computer code? Correct: Spaghetti
+Category: Technology Question: Which of these social media platforms was launched in 2010? Correct: Instagram
+Category: Technology Question: Johannes Gutenberg is known for which invention? Correct: Printing Press
+Category: Technology Question: What does "GPS" stand for? Correct: Global Positioning System
+Category: Technology Question: Which computer programming language was known for its "turtle graphics"? Correct: Logo
+Category: Technology Question: What company produced the Walkman? Correct: Sony
+
+Category: Science Question: What is NOT considered one of the Galilean Moons of Jupiter? Correct: Phobos
+Category: Science Question: How many different blood types can be found in the human body? Correct: 4
+Category: Science Question: Ascorbic acid is more commonly referred to as what? Correct: Vitamin C
+Category: Science Question: What is the largest organ in the human body? Correct: Skin
+Category: Science Question: Approximately how many Earths could fit inside the sun? Correct: 1.3 Million
+Category: Science Question: What type of brain disorder causes difficulty in speech and movement? Correct: Parkinson's Disease
+Category: Science Question: Which organ could grow back if you donated part of it? Correct: Liver
+Category: Science Question: What disease is created when cells in the body begin to divide uncon2trollably? Correct: Cancer
+Category: Science Question: What is the closest star to the Earth, beside the Sun? Correct: Proxima Centauri
+Category: Science Question: Who developed the smallpox vaccine? Correct: Edward Jenner
+Category: Science Question: What is the only metal that can be in liquid form at room temperature? Correct: Mercury
+Category: Science Question: "Fe" is the chemical symbol for which common element? Correct: Iron
+Category: Science Question: Which chemical element is historically known as quicksilver? Correct: Mercury
+Category: Science Question: Vaccine gets its name from the Latin for which farm animal? Correct: Cow
+Category: Science Question: Which planet has the coldest atmosphere in the solar system? Correct: Uranus
+Category: Science Question: Which part of the body is affected by a Pott's fracture? Correct: Ankle
+Category: Science Question: During which century was the telescope created? Correct: 17th Century
+Category: Science Question: Which planet is covered in thick poisonous clouds, trapping all the heat it absorbs from the Sun? Correct: Venus
+Category: Science Question: Galileo discovered the first four moons around which planet? Correct: Jupiter
